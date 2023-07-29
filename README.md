@@ -6,6 +6,10 @@ React
 Material UI  
 Chart.js  
 
+Check it out here:   
+https://64c53bebad7dc40549fde556--gorgeous-moxie-054198.netlify.app/  
+
+
 A glimpse of what the dashboard provides:    
 
 ![Screenshot (854)](https://github.com/purnamrita/Admin-Dashboard-Design-React/assets/90690424/5fbcefdc-5938-47e6-a6ee-a44c54c740c3)
